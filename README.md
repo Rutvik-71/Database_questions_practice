@@ -1,2 +1,5 @@
 # Database_questions_practice
-let's grind .😉 
+
+let's grind .😉
+
+most asked and  similar pattern questions.
